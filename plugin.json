@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "sales-skills-for-rakazo",
+  "version": "1.0.0",
+  "description": "Sales Skills for Rakazo — a Rakazo-only plugin. Sales and sales-automation playbooks for Rakazo bots: ICP, lead research and scoring, cold email, LinkedIn and WhatsApp outreach, follow-ups, reply handling, objections, discovery, meetings, proposals, negotiation, closing, CRM hygiene, pipeline reviews, deliverability, compliance and daily sales routines.",
+  "license": "MIT",
+  "keywords": [
+    "rakazo",
+    "sales",
+    "sales-automation",
+    "lead-generation",
+    "cold-email",
+    "outreach",
+    "crm",
+    "pipeline",
+    "b2b",
+    "sdr"
+  ]
+}
